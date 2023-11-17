@@ -1,0 +1,26 @@
+<annotation>
+	<folder>samples</folder>
+	<filename>Bird25.jpg</filename>
+	<path>C:\Users\bhadu\Documents\ECE5725\FinalProject\samples\Bird25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>909</xmin>
+			<ymin>601</ymin>
+			<xmax>2339</xmax>
+			<ymax>1501</ymax>
+		</bndbox>
+	</object>
+</annotation>
